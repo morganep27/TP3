@@ -1,0 +1,4 @@
+2025-10-01T15:51:20.622 [main.log.LogTest.main()] INFO  com.example.authapp - login.attempt username=alice ip=127.0.0.1
+2025-10-01T15:51:20.623 [main.log.LogTest.main()] INFO  com.example.authapp - login.fail username=alice ip=127.0.0.1
+2025-10-01T15:51:20.624 [main.log.LogTest.main()] INFO  com.example.authapp - login.attempt username=bob ip=127.0.0.1
+2025-10-01T15:51:20.624 [main.log.LogTest.main()] INFO  com.example.authapp - login.success username=bob ip=127.0.0.1
